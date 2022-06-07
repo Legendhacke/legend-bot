@@ -31,9 +31,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ``` 
-git clone https://github.com/zim-bot/tuna-bot
+git clone https://github.com/Legendhacke/legend-bot
  
-cd tuna-bot
+cd legend-bot
  
 rm -r session.json
 
